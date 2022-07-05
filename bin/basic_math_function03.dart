@@ -9,7 +9,7 @@
 import 'dart:math';
 
 num func(x) {
-  num s = pow(x, 1 / 2);
+  num s = pow(x, 2);
   return s;
 }
 
